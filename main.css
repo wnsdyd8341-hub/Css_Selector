@@ -1,0 +1,35 @@
+/* 태그 선택자 */
+h1{color: blue; font-size: 70px;
+    background-color:skyblue;  
+} 
+p{color: aqua;
+    font-size: 20px;
+}
+.ip{color: aquamarine;
+    font-size: 44px;
+}
+body{background-color:honeydew;}
+h2{
+    font-size: 32px;
+}
+#ab{color: blue;}
+.abc{color: aquamarine;}
+.box{width: 50px;height: 50px;
+    background-color: aquamarine;
+    border: 3px solid red;
+}
+.box1{background-color: blue;
+     border-radius: 50%;}
+.box2{background-color: brown;}
+.box3{background-color: aquamarine;
+    border-radius: 50%;}
+#title{font-size: 48px;}
+#title2{color: brown;
+    font-size: 24px;
+    font-weight: bold;
+}
+h4{font-size: 14px;color:red;background-color: aqua;}
+.desc{
+    font-size: 14px;color:red;background-color: aqua;
+}
+.smallTitle{font-size: 14px;color:red;background-color: aqua;}
